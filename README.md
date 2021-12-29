@@ -3,6 +3,7 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/003ca5cb-7b5c-4c16-883e-c69d00b8e64d/deploy-status)](https://app.netlify.com/sites/brave-dijkstra-86c30e/deploys)
 <h1 align="center">
   Gatsby minimal starter
 </h1>
