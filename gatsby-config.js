@@ -1,10 +1,9 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
+    siteUrl: "https://learnlambdas.com",
     title: "Learn Lambdas",
   },
   plugins: [
-    "gatsby-plugin-netlify-cms",
     "gatsby-plugin-image",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sitemap",
